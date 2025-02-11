@@ -1,14 +1,14 @@
 # Hi there, I'm Dhruvin Dankhara 👋
 
 ## 🚀 About Me
-I'm a passionate **Software Engineer & Cloud Architect** with over **2 years of experience** in designing and building **scalable, cloud-native solutions**. My expertise lies in **backend development, distributed systems, and cloud infrastructure**.
+I'm a passionate **Software Developer & Cloud Architect** with over **2 years of experience** in designing and building **scalable, cloud-native solutions**. My expertise lies in **backend development, distributed systems, and cloud infrastructure**.
 
 ## 🏗️ What I Do
+- **Languages**: Java, Python, Scala, Node.js, .NET (C#), Javascript, TypeScript.
+- **Full-Stack Development**: Spring Boot, React.js, Nest.js, Express.js.
 - **Cloud & DevOps**: AWS, Terraform, CloudFormation, Kubernetes, Docker, CI/CD pipelines.
-- **Backend Development**: Go, Java, Python, Scala, Node.js, .NET (C#), TypeScript.
 - **Databases & Storage**: MySQL, PostgreSQL, DynamoDB, MongoDB, Redis, Elasticsearch.
 - **Big Data & Streaming**: Apache Spark, Kafka.
-- **Full-Stack Development**: React.js, Nest.js, Express.js, Spring Boot.
 
 ## 🏆 Certifications
 - **AWS Certified Solutions Architect – Associate**
