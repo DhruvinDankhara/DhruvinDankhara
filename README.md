@@ -34,9 +34,9 @@ I'm a passionate **Software Engineer & Cloud Architect** with over **2 years of 
 - Improved system reliability and performance through **monitoring and logging solutions**.
 
 ## 📫 Let's Connect!
-- **GitHub**: [github.com/yourusername](https://github.com/DhruvinDankhara)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/dhruvin-dankhara)
-- **Email**: your.email@example.com
+- **GitHub**: [github.com/DhruvinDankhara](https://github.com/DhruvinDankhara)
+- **LinkedIn**: [linkedin.com/in/dhruvin-dankhara](https://linkedin.com/in/dhruvin-dankhara)
+- **Email**: d.dhruvin.15@gmail.com
 
 ---
 🚀 *Always excited about new opportunities and collaborations in cloud computing, backend development, and DevOps!*
