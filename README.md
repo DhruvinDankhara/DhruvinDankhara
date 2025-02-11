@@ -26,8 +26,8 @@ Previously worked at **Nasdaq Verafin**, where I:
 - Optimized cloud-based data pipelines and enhanced system reliability.
 
 ## 📫 Let's Connect!
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- **GitHub**: [github.com/yourusername](https://github.com/DhruvinDankhara)
+- **LinkedIn**: [linkedin.com/in/yourname](https://linkedin.com/in/dhruvin-dankhara)
 - **Email**: your.email@example.com
 
 ---
