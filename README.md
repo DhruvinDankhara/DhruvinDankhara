@@ -21,9 +21,17 @@ I'm a passionate **Software Engineer & Cloud Architect** with over **2 years of 
 - Experience in **financial & insurance tech** solutions.
 
 ## 📌 Work Experience
-Previously worked at **Nasdaq Verafin**, where I:
+### **Nasdaq Verafin**
 - Developed **Scala/Spark scripts** to resolve critical data issues and improve process runtime.
 - Optimized cloud-based data pipelines and enhanced system reliability.
+- Built automation tools for **data validation** and **software application development**.
+- Integrated **AWS services** to improve infrastructure performance and scalability.
+
+### **Simform**
+- Designed and developed scalable **backend services** using **Go, Python, and Node.js**.
+- Built **serverless applications** using AWS Lambda and DynamoDB.
+- Implemented **CI/CD pipelines** to automate testing and deployments.
+- Improved system reliability and performance through **monitoring and logging solutions**.
 
 ## 📫 Let's Connect!
 - **GitHub**: [github.com/yourusername](https://github.com/DhruvinDankhara)
